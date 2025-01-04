@@ -1,6 +1,8 @@
 # paran
 Horn's Test of Principal Components/Factors Use paran With STATA 18
 
+https://www.youtube.com/watch?v=EazKWbnteFw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
